@@ -1,6 +1,6 @@
 # Projeto React + TypeScript + Vite com APEXCHARTS
 
-Este projeto foi criado utilizando **React**, **TypeScript** e **Vite**, com integração do **ApexCharts** para criação de gráficos interativos.
+Este projeto foi criado utilizando **React**, **TypeScript** e **Vite**, com integração do **ApexCharts** para criação de gráficos interativos em formato de colunas.
 
 ## 📊 Instalação do ApexCharts
 
